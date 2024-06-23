@@ -1,6 +1,19 @@
 ## Vision Browser Python API Wrapper
 
-[![PyPI version](https://img.shields.io/pypi/v/visionbrowser)](https://pypi.org/project/visionbrowser/)
+<div>
+  <a href="https://pypi.org/project/visionbrowser/">
+    <img src="https://img.shields.io/pypi/v/visionbrowser.svg" alt="PyPI Version" />
+  </a>
+  <a href="https://pypi.org/project/visionbrowser/">
+    <img src="https://img.shields.io/pypi/pyversions/visionbrowser.svg" alt="Python Versions" />
+  </a>
+  <a href="https://pypi.org/project/visionbrowser/">
+    <img src="https://img.shields.io/pypi/status/visionbrowser.svg" alt="Development Status" />
+  </a>
+  <a href="https://pypi.org/project/visionbrowser/">
+    <img src="https://img.shields.io/pypi/l/visionbrowser.svg" alt="License" />
+  </a>
+</div>
 
 Asynchronous Python library for interacting with the Vision Browser API. Allows you to manage browser profiles, folders, and other entities through a convenient interface.
 
